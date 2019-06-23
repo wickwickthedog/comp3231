@@ -10,3 +10,5 @@ Close to full marks for
 Bad marks for
 - Third assignment (just the error numbers)
 	- due to system calls returning wrong error numbers
+
+You will need to build it to run the program
